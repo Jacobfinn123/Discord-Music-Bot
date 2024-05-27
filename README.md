@@ -44,7 +44,7 @@ This command will make the bot leave the channel and clear the queue.<br>
 Type ```!stop``` in any channel. 
 
 ## !queue
-This command will display all songs currently in the queue, you paginate through 10 seconds at a time.<br>
+This command will display all songs currently in the queue, you paginate through 10 songs at a time.<br>
 Type ```!queue``` in any channel. 
 
 Example of !queue command<br>
