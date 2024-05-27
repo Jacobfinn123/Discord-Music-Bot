@@ -1,5 +1,3 @@
-### This project is for demonstration purposes only!
-#
 Discord Music Bot is a tool which can be used to play songs (or any youtube video) in your discord channel. This tool supports search querying, queues, skipping, and more.
 
 Want to use a hosted version of this bot? Use the discord invite link [here](https://discord.com/oauth2/authorize?client_id=1028041338349944832)
