@@ -17,7 +17,8 @@ Want to use a hosted version of this bot? Use the discord invite link [here](htt
    2. Activate the newly created virtual environment. ```.\env\Scripts\activate```
    3. Install the depedencies. ```pip install -r requirements.txt```
 4. Open the project folder in your IDE (PyCharm preferred).
-5. Run *main.py*
+5. Put your discord bot token in discord_token.txt
+6. Run *main.py*
 ## Commands
 ## !play
 This command will add a song to the queue.
